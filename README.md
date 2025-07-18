@@ -20,7 +20,7 @@ A Python script that processes messy Olympiad registration entries and transform
 m.hosSein.python
 f.miNa.C
 m.aHMad.C++
- f.Sara.java
+f.Sara.java
 ```
 ## 📤 Sample Output
 ```bash

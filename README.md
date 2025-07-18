@@ -57,7 +57,7 @@ This project practices:
 ## 👨‍💻 Made by
 
 **Youngkoorosh** – independent learner focused on Python, machine learning, and clean workflows.  
-🔗 [LinkedIn](http://www.linkedin.com/in/koorosh-noroozpur-964705375)  
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://www.linkedin.com/in/koorosh-noroozpur-964705375)
 📁 [GitHub Profile](https://github.com/Youngkoorosh)
 
 ---
